@@ -1,2 +1,2 @@
-# ggplot2_examples
+# ggplot2 Examples
 Code examples for generating nice ggplot2 figures
